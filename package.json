@@ -1,0 +1,22 @@
+{
+  "name": "sand",
+  "version": "1.0.0",
+  "description": "A fun project.",
+  "main": "sand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sand"
+  },
+  "keywords": [
+    "sand"
+  ],
+  "author": "znci",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fancy-time": "^1.0.0"
+  }
+}
